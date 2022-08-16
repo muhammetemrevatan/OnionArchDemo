@@ -1,0 +1,15 @@
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Application.deps.json
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Application.dll
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Application.pdb
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Domain.dll
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\bin\Debug\net6.0\ProductApp.Domain.pdb
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.csproj.AssemblyReference.cache
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.AssemblyInfoInputs.cache
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.AssemblyInfo.cs
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.csproj.CopyComplete
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.dll
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\refint\ProductApp.Application.dll
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ProductApp.Application.pdb
+C:\Users\vatan\source\repos\ProductApp\src\core\ProductApp.Application\obj\Debug\net6.0\ref\ProductApp.Application.dll
